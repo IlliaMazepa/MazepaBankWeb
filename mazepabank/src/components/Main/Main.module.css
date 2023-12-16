@@ -1,0 +1,7 @@
+.fullScreenContainer {
+    width: 100vw; /* 100% of the viewport width */
+    height: 100vh; /* 100% of the viewport height */
+    overflow: hidden; /* Optional: Hide overflow if needed */
+    margin: 0; /* Optional: Remove default body margin */
+    padding: 0; /* Optional: Remove default body padding */
+  }
